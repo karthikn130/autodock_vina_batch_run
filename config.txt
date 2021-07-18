@@ -1,0 +1,15 @@
+receptor=4dmy_A.pdbqt
+
+
+center_x=0.338
+center_y=32.228
+center_z=11.695
+
+size_x=40
+size_y=40
+size_z=48
+
+energy_range=20
+exhaustiveness=8
+
+    
